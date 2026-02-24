@@ -1,4 +1,4 @@
 name: melinia
 type: postgres
 options:
-  sslmode: require
+  ssl: true
