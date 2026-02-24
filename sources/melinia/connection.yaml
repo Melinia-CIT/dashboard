@@ -1,7 +1,6 @@
 name: melinia
 type: postgres
 options:
-  host: localhost
   port: 5433
   database: melinia_db
   user: melinia
